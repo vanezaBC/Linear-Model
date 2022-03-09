@@ -206,11 +206,4 @@ plt.plot(domain, hypothesis_image)
 plt.axis([X_MIN, X_MAX, Y_MIN, Y_MAX])
 plt.show()
 
-"""# Tarea + Seguimiento.
-## Construir 5 datasets de 20 datos, entrenar (iterations = 5, 10, 100, 500), graficar, y calcular el score. 
-## Construir 5 datasets de 50 datos, entrenar (iterations = 5, 10, 100, 500), graficar, y calcular el score. 
-## Construir 5 datasets de 150 datos, entrenar (iterations = 5, 10, 100, 500), graficar, y calcular el score. 
-## Construir 5 datasets de 1000 datos, entrenar (iterations = 5, 10, 100, 500), graficar, y calcular el score. 
-# Conclusiones.
-"""
 
